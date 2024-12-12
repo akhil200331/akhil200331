@@ -55,8 +55,7 @@ Hi, I'm **Vaddi Akhil**, a tech enthusiast passionate about **Data Analysis**, *
   ### Vaddi Akhil's GitHub Stats
   ![Akhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhil200331&show_icons=true&theme=radical)
 
-  ### Contributions & Streaks
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akhil200331)
+
 
 </div>
 ---
