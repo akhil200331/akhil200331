@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=akhil200331&color=blue)
+
 # 💫 About Me:
 Hi, I'm **Vaddi Akhil**, a tech enthusiast passionate about **Data Analysis**, **AI/ML**, and **Frontend Development**. I thrive on solving problems and creating impactful solutions using tools like **Python**, **TensorFlow**, and **SQL**. Always eager to learn and collaborate! 🚀
 
@@ -44,6 +46,19 @@ Hi, I'm **Vaddi Akhil**, a tech enthusiast passionate about **Data Analysis**, *
 - Time Management  
 - Communication  
 
+---
+
+## 📊 GitHub Stats:
+
+<div align="center">
+  
+  ### Vaddi Akhil's GitHub Stats
+  ![Akhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhil200331&show_icons=true&theme=radical)
+
+  ### Contributions & Streaks
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akhil200331)
+
+</div>
 ---
 
 Feel free to reach out and collaborate on exciting projects! 😊
